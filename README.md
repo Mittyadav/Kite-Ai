@@ -25,8 +25,10 @@ An automated interaction bot for Kite AI platform with multi-wallet and proxy su
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/KiteAi-Auto-Bot.git
-cd KiteAi-Auto-Bot
+git clone https://github.com/Mittyadav/Kite-Ai.git
+```
+```bash
+cd Kite-Ai
 ```
 
 2. Install dependencies:
@@ -39,9 +41,26 @@ npm install
 1. Create a `questions.json` file with your questions:
 ```json
 [
-  "What is blockchain?",
-  "How does crypto mining work?",
-  "What are smart contracts?"
+  "What is cryptocurrency?"  
+"How does Bitcoin work?"  
+"What is Ethereum?"  
+"How are NFTs related to blockchain?"  
+"What is DeFi (Decentralized Finance)?"  
+"How does a blockchain transaction work?"  
+"What are the benefits of blockchain technology?"  
+"What is a private blockchain?"  
+"How does proof-of-work (PoW) differ from proof-of-stake (PoS)?"  
+"What is a crypto wallet?"  
+"How do stablecoins work?"  
+"What is the role of miners in blockchain?"  
+"What is a DAO (Decentralized Autonomous Organization)?"  
+"How secure is blockchain technology?"  
+"What is a blockchain node?"  
+"What are Layer 2 solutions in blockchain?"  
+"How do gas fees work in Ethereum?"  
+"What is the difference between a coin and a token?"  
+"How does blockchain ensure transparency and security?"  
+"What industries can benefit from blockchain technology?"
 ]
 ```
 
