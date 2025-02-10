@@ -153,7 +153,7 @@ function createAxiosInstance(proxyUrl = null) {
 function displayAppTitle() {
   console.log(banner);
   console.log(chalk.dim('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'));
-  console.log(chalk.yellow('Fork from : Mamangzed'));
+  console.log(chalk.yellow('Made with ❣️ by: dark life                   '));
   console.log(chalk.dim('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n'));
 }
 
